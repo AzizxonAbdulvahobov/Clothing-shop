@@ -34,4 +34,3 @@ class ProductAdmin(admin.ModelAdmin):
         return "No Image"
 
 
-admin.site.register(models.Comment)
